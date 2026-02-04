@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# data 폴더(csv 파일 등)
+data/
